@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------
+Environment Overview 
+--------------------------------------------------------------------------------
+  Environment Name:    TEST
+  Environment Status:  Normal
+  Environment Version: REVISION_6_4_STRUCT_FIELD_CTOR_ADDS_POINTER
+  Environment Build Type: Full
+  Coverage Status:     Statement (disabled)
+  Language:            C
+  Compiler Name:       VectorCAST MinGW_C
+  White Box:           Yes
+  Search List:         C:\VCAST\Tutorial\c  (testable)
+  Units Under Test:    manager
+  Stub List:           uut_prototype_stubs
+  Don't Stub List:     None

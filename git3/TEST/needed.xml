@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<env_info>
+  <needed_entities>
+    <unit id="9">
+      <function id="printf" name="printf" defined="0" params="(&lt;anon&gt;)" file="1" return="int">
+        <called line="35" column="1" file="2" function-scope="true" statement-line="35" statement-col="1" statement-end-line="35" statement-end-col="19"/>
+      </function>
+      <function id="Get_Table_Record" name="Get_Table_Record" defined="0" params="(Table)" file="2" return="table_data_type">
+        <called line="36" column="16" file="2" function-scope="true" statement-line="36" statement-col="3" statement-end-line="36" statement-end-col="39"/>
+        <called line="70" column="16" file="2" function-scope="true" statement-line="70" statement-col="3" statement-end-line="70" statement-end-col="39"/>
+        <called line="91" column="16" file="2" function-scope="true" statement-line="91" statement-col="3" statement-end-line="91" statement-end-col="39"/>
+      </function>
+      <function id="Update_Table_Record" name="Update_Table_Record" defined="0" params="(Table,Data)" file="2" return="">
+        <called line="62" column="3" file="2" function-scope="true" statement-line="62" statement-col="3" statement-end-line="62" statement-end-col="41"/>
+        <called line="84" column="3" file="2" function-scope="true" statement-line="84" statement-col="3" statement-end-line="84" statement-end-col="41"/>
+      </function>
+      <function id="Add_Included_Dessert" name="Add_Included_Dessert" defined="1" params="(Order)" file="2" return="" exec-line="15" exec-col="3">
+        <called line="42" column="3" file="2" function-scope="true" statement-line="42" statement-col="3" statement-end-line="42" statement-end-col="48"/>
+      </function>
+      <function id="Place_Order" name="Place_Order" defined="1" params="(Table,Seat,Order)" file="2" return="int" exec-line="35" exec-col="1"/>
+      <function id="Clear_Table" name="Clear_Table" defined="1" params="(Table)" file="2" return="int" exec-line="70" exec-col="3"/>
+      <function id="Get_Check_Total" name="Get_Check_Total" defined="1" params="(Table)" file="2" return="FLOAT" exec-line="91" exec-col="3"/>
+      <function id="Add_Party_To_Waiting_List" name="Add_Party_To_Waiting_List" defined="1" params="(Name)" file="2" return="" exec-line="98" exec-col="3"/>
+      <function id="Get_Next_Party_To_Be_Seated" name="Get_Next_Party_To_Be_Seated" defined="1" params="()" file="2" return="char*" exec-line="110" exec-col="3"/>
+    </unit>
+  </needed_entities>
+  <files>
+    <file id="1">c:\vcast\mingw\bin\../lib/gcc/mingw32/4.5.2/../../../../include/stdio.h</file>
+    <file id="2">C:/VCAST/Tutorial/c/manager.c</file>
+  </files>
+</env_info>
