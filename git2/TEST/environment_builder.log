@@ -1,0 +1,26 @@
+    Processing options file C:\VCAST\Environments\git\CCAST_.CFG
+    Reading environment script "C:/VCAST/Environments/git\TEST.env"
+    Initializing search list
+    Creating the Environment Directory
+    Creating Environment "TEST"
+    Unit 8 (not-stubbed): User Defined Globals
+       Parsing 
+       Initializing parse data
+       Generating harness code
+       Saving unit data
+    Parsing manager
+    Unit 9 (stub-by-function): manager
+       Loading stored IL
+       Initializing parse data
+       Generating harness code
+       Saving unit data
+    Compiling file VECTORCAST_IO
+    Compiling file User Defined Globals
+    Compiling file manager
+    Compiling file Data File Number 1
+    Compiling file Data File Number 2
+    Compiling file Driver
+    Compiling file User Defined Package
+    Linking Environment
+    Writing VectorCAST Database Files to Disk
+    Environment built Successfully

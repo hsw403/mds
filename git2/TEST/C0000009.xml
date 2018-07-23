@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage_data xml_testcase_version="5">
+  <unit index="9" coverage_type="STATEMENT">
+    <name>manager</name>
+    <subprogram index="1">
+      <name>Add_Included_Dessert</name>
+      <mangled>Add_Included_Dessert</mangled>
+      <lines>
+        <line number="1" id="1" stmt_id="1" startline="15" startcol="3" endline="17" endcol="35" tustartline="1017" tustartcol="3" tuendline="1019" tuendcol="35" allowed_position="0"/>
+        <line number="2" id="2" stmt_id="3" startline="19" startcol="5" endline="19" endcol="25" tustartline="1021" tustartcol="5" tuendline="1021" tuendcol="25" allowed_position="2"/>
+        <line number="3" id="3" stmt_id="4" startline="21" startcol="10" endline="23" endcol="35" tustartline="1023" tustartcol="10" tuendline="1025" tuendcol="35" allowed_position="0"/>
+        <line number="4" id="4" stmt_id="6" startline="25" startcol="5" endline="25" endcol="26" tustartline="1027" tustartcol="5" tuendline="1027" tuendcol="26" allowed_position="2"/>
+      </lines>
+      <startline>1016</startline>
+      <startcol>1</startcol>
+      <endline>1029</endline>
+      <endcol>1</endcol>
+      <orig_startline>14</orig_startline>
+      <orig_endline>27</orig_endline>
+      <metrics>
+        <complexity>3</complexity>
+        <coverage coverage_type="STATEMENT">
+          <total>4</total>
+        </coverage>
+      </metrics>
+    </subprogram>
+    <subprogram index="2">
+      <name>Place_Order</name>
+      <mangled>Place_Order</mangled>
+      <lines>
+        <line number="1" id="5" stmt_id="2" startline="35" startcol="1" endline="35" endcol="19" tustartline="1037" tustartcol="1" tuendline="1037" tuendcol="19" allowed_position="2"/>
+        <line number="2" id="6" stmt_id="3" startline="36" startcol="3" endline="36" endcol="39" tustartline="1038" tustartcol="3" tuendline="1038" tuendcol="39" allowed_position="2"/>
+        <line number="3" id="7" stmt_id="4" startline="37" startcol="3" endline="37" endcol="34" tustartline="1039" tustartcol="3" tuendline="1039" tuendcol="34" allowed_position="2"/>
+        <line number="4" id="8" stmt_id="5" startline="38" startcol="3" endline="38" endcol="62" tustartline="1040" tustartcol="3" tuendline="1040" tuendcol="62" allowed_position="2"/>
+        <line number="5" id="9" stmt_id="6" startline="39" startcol="3" endline="39" endcol="33" tustartline="1041" tustartcol="3" tuendline="1041" tuendcol="33" allowed_position="2"/>
+        <line number="6" id="10" stmt_id="7" startline="42" startcol="3" endline="42" endcol="48" tustartline="1044" tustartcol="3" tuendline="1044" tuendcol="48" allowed_position="2"/>
+        <line number="7" id="11" stmt_id="8" startline="44" startcol="3" endline="44" endcol="21" tustartline="1046" tustartcol="3" tuendline="1046" tuendcol="21" allowed_position="0"/>
+        <line number="8" id="12" stmt_id="10" startline="47" startcol="8" endline="47" endcol="13" tustartline="1049" tustartcol="8" tuendline="1049" tuendcol="13" allowed_position="2"/>
+        <line number="9" id="13" stmt_id="12" startline="49" startcol="8" endline="49" endcol="62" tustartline="1051" tustartcol="8" tuendline="1051" tuendcol="62" is_macro="1" allowed_position="2"/>
+        <line number="10" id="14" stmt_id="13" startline="50" startcol="8" endline="50" endcol="13" tustartline="1052" tustartcol="8" tuendline="1052" tuendcol="13" allowed_position="2"/>
+        <line number="11" id="15" stmt_id="15" startline="52" startcol="8" endline="52" endcol="62" tustartline="1054" tustartcol="8" tuendline="1054" tuendcol="62" is_macro="1" allowed_position="2"/>
+        <line number="12" id="16" stmt_id="16" startline="53" startcol="8" endline="53" endcol="13" tustartline="1055" tustartcol="8" tuendline="1055" tuendcol="13" allowed_position="2"/>
+        <line number="13" id="17" stmt_id="18" startline="55" startcol="8" endline="55" endcol="62" tustartline="1057" tustartcol="8" tuendline="1057" tuendcol="62" is_macro="1" allowed_position="2"/>
+        <line number="14" id="18" stmt_id="19" startline="56" startcol="8" endline="56" endcol="13" tustartline="1058" tustartcol="8" tuendline="1058" tuendcol="13" allowed_position="2"/>
+        <line number="15" id="19" stmt_id="21" startline="58" startcol="8" endline="58" endcol="62" tustartline="1060" tustartcol="8" tuendline="1060" tuendcol="62" is_macro="1" allowed_position="2"/>
+        <line number="16" id="20" stmt_id="22" startline="59" startcol="8" endline="59" endcol="13" tustartline="1061" tustartcol="8" tuendline="1061" tuendcol="13" allowed_position="2"/>
+        <line number="17" id="21" stmt_id="24" startline="62" startcol="3" endline="62" endcol="41" tustartline="1064" tustartcol="3" tuendline="1064" tuendcol="41" allowed_position="2"/>
+        <line number="18" id="22" stmt_id="25" startline="63" startcol="3" endline="63" endcol="11" tustartline="1065" tustartcol="3" tuendline="1065" tuendcol="11" allowed_position="0"/>
+      </lines>
+      <startline>1034</startline>
+      <startcol>1</startcol>
+      <endline>1066</endline>
+      <endcol>1</endcol>
+      <orig_startline>32</orig_startline>
+      <orig_endline>64</orig_endline>
+      <metrics>
+        <complexity>5</complexity>
+        <coverage coverage_type="STATEMENT">
+          <total>18</total>
+        </coverage>
+      </metrics>
+    </subprogram>
+    <subprogram index="3">
+      <name>Clear_Table</name>
+      <mangled>Clear_Table</mangled>
+      <lines>
+        <line number="1" id="23" stmt_id="3" startline="70" startcol="3" endline="70" endcol="39" tustartline="1072" tustartcol="3" tuendline="1072" tuendcol="39" allowed_position="2"/>
+        <line number="2" id="24" stmt_id="4" startline="71" startcol="3" endline="71" endcol="35" tustartline="1073" tustartcol="3" tuendline="1073" tuendcol="35" allowed_position="2"/>
+        <line number="3" id="25" stmt_id="5" startline="72" startcol="3" endline="72" endcol="33" tustartline="1074" tustartcol="3" tuendline="1074" tuendcol="33" allowed_position="2"/>
+        <line number="4" id="26" stmt_id="6" startline="74" startcol="3" endline="74" endcol="31" tustartline="1076" tustartcol="3" tuendline="1076" tuendcol="31" is_macro="1" allowed_position="0"/>
+        <line number="5" id="27" stmt_id="8" startline="75" startcol="7" endline="75" endcol="44" tustartline="1077" tustartcol="7" tuendline="1077" tuendcol="44" allowed_position="2"/>
+        <line number="6" id="28" stmt_id="9" startline="76" startcol="7" endline="76" endcol="46" tustartline="1078" tustartcol="7" tuendline="1078" tuendcol="46" allowed_position="2"/>
+        <line number="7" id="29" stmt_id="10" startline="77" startcol="7" endline="77" endcol="48" tustartline="1079" tustartcol="7" tuendline="1079" tuendcol="48" allowed_position="2"/>
+        <line number="8" id="30" stmt_id="11" startline="78" startcol="7" endline="78" endcol="50" tustartline="1080" tustartcol="7" tuendline="1080" tuendcol="50" allowed_position="2"/>
+        <line number="9" id="31" stmt_id="12" startline="79" startcol="7" endline="79" endcol="52" tustartline="1081" tustartcol="7" tuendline="1081" tuendcol="52" allowed_position="2"/>
+        <line number="10" id="32" stmt_id="13" startline="82" startcol="3" endline="82" endcol="29" tustartline="1084" tustartcol="3" tuendline="1084" tuendcol="29" allowed_position="2"/>
+        <line number="11" id="33" stmt_id="14" startline="84" startcol="3" endline="84" endcol="41" tustartline="1086" tustartcol="3" tuendline="1086" tuendcol="41" allowed_position="2"/>
+        <line number="12" id="34" stmt_id="15" startline="85" startcol="3" endline="85" endcol="11" tustartline="1087" tustartcol="3" tuendline="1087" tuendcol="11" allowed_position="0"/>
+      </lines>
+      <startline>1069</startline>
+      <startcol>1</startcol>
+      <endline>1088</endline>
+      <endcol>1</endcol>
+      <orig_startline>67</orig_startline>
+      <orig_endline>86</orig_endline>
+      <metrics>
+        <complexity>2</complexity>
+        <coverage coverage_type="STATEMENT">
+          <total>12</total>
+        </coverage>
+      </metrics>
+    </subprogram>
+    <subprogram index="4">
+      <name>Get_Check_Total</name>
+      <mangled>Get_Check_Total</mangled>
+      <lines>
+        <line number="1" id="35" stmt_id="2" startline="91" startcol="3" endline="91" endcol="39" tustartline="1093" tustartcol="3" tuendline="1093" tuendcol="39" allowed_position="2"/>
+        <line number="2" id="36" stmt_id="3" startline="92" startcol="3" endline="92" endcol="34" tustartline="1094" tustartcol="3" tuendline="1094" tuendcol="34" allowed_position="0"/>
+      </lines>
+      <startline>1091</startline>
+      <startcol>1</startcol>
+      <endline>1095</endline>
+      <endcol>1</endcol>
+      <orig_startline>89</orig_startline>
+      <orig_endline>93</orig_endline>
+      <metrics>
+        <complexity>1</complexity>
+        <coverage coverage_type="STATEMENT">
+          <total>2</total>
+        </coverage>
+      </metrics>
+    </subprogram>
+    <subprogram index="5">
+      <name>Add_Party_To_Waiting_List</name>
+      <mangled>Add_Party_To_Waiting_List</mangled>
+      <lines>
+        <line number="1" id="37" stmt_id="2" startline="97" startcol="3" endline="97" endcol="12" tustartline="1099" tustartcol="3" tuendline="1099" tuendcol="12" allowed_position="2"/>
+        <line number="2" id="38" stmt_id="3" startline="98" startcol="3" endline="98" endcol="24" tustartline="1100" tustartcol="3" tuendline="1100" tuendcol="24" allowed_position="0"/>
+        <line number="3" id="39" stmt_id="4" startline="99" startcol="5" endline="99" endcol="24" tustartline="1101" tustartcol="5" tuendline="1101" tuendcol="24" allowed_position="2"/>
+        <line number="4" id="40" stmt_id="5" startline="101" startcol="3" endline="101" endcol="21" tustartline="1103" tustartcol="3" tuendline="1103" tuendcol="21" allowed_position="0"/>
+        <line number="5" id="41" stmt_id="7" startline="102" startcol="5" endline="102" endcol="46" tustartline="1104" tustartcol="5" tuendline="1104" tuendcol="46" allowed_position="2"/>
+        <line number="6" id="42" stmt_id="8" startline="103" startcol="5" endline="103" endcol="11" tustartline="1105" tustartcol="5" tuendline="1105" tuendcol="11" allowed_position="2"/>
+        <line number="7" id="43" stmt_id="9" startline="105" startcol="3" endline="105" endcol="40" tustartline="1107" tustartcol="3" tuendline="1107" tuendcol="40" allowed_position="2"/>
+      </lines>
+      <startline>1098</startline>
+      <startcol>1</startcol>
+      <endline>1108</endline>
+      <endcol>1</endcol>
+      <orig_startline>96</orig_startline>
+      <orig_endline>106</orig_endline>
+      <metrics>
+        <complexity>3</complexity>
+        <coverage coverage_type="STATEMENT">
+          <total>7</total>
+        </coverage>
+      </metrics>
+    </subprogram>
+    <subprogram index="6">
+      <name>Get_Next_Party_To_Be_Seated</name>
+      <mangled>Get_Next_Party_To_Be_Seated</mangled>
+      <lines>
+        <line number="1" id="44" stmt_id="1" startline="110" startcol="3" endline="110" endcol="25" tustartline="1112" tustartcol="3" tuendline="1112" tuendcol="25" allowed_position="0"/>
+        <line number="2" id="45" stmt_id="2" startline="111" startcol="5" endline="111" endcol="25" tustartline="1113" tustartcol="5" tuendline="1113" tuendcol="25" allowed_position="2"/>
+        <line number="3" id="46" stmt_id="3" startline="112" startcol="3" endline="112" endcol="41" tustartline="1114" tustartcol="3" tuendline="1114" tuendcol="41" allowed_position="0"/>
+      </lines>
+      <startline>1111</startline>
+      <startcol>1</startcol>
+      <endline>1115</endline>
+      <endcol>1</endcol>
+      <orig_startline>109</orig_startline>
+      <orig_endline>113</orig_endline>
+      <metrics>
+        <complexity>2</complexity>
+        <coverage coverage_type="STATEMENT">
+          <total>3</total>
+        </coverage>
+      </metrics>
+    </subprogram>
+  </unit>
+</coverage_data>
